@@ -45,5 +45,6 @@ function example02() {
     console.log('\nNome das pessoas:\n' , name);
     console.log('\nIdades das pessoas:\n' , ages);
     console.log('\nIdades das pessoas:\n' , key_id);
+
+    example02();
 }
-example02();
